@@ -1,0 +1,13 @@
+table {
+    border: 0px solid forestgreen;
+    width: 100%;
+    height: 200px;
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+  }
+    
+  td {
+    text-align: left;
+  }

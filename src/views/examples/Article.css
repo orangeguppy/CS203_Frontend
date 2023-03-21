@@ -1,0 +1,21 @@
+
+.Article {
+    text-align: center;
+}
+
+.Article:hover{     /* size increases on hovering */
+    width: 400px;
+    height: 320px;
+}
+
+.Article {
+    width: 150px;
+    height: 290px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    transition: 0.1s;   /* for smoother hovering */
+}
